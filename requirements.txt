@@ -3,4 +3,5 @@ pandas_datareader
 pystan
 numpy
 matplotlib
+plotly
 fbprophet
