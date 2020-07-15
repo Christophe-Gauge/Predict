@@ -1,5 +1,6 @@
 pandas
 pandas_datareader
+pystan
 numpy
 matplotlib
 fbprophet
