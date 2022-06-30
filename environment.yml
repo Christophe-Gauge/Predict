@@ -1,5 +1,11 @@
 name: python 3.7
 dependencies:
   - python=3.7
+  - pandas
+  - pandas_datareader
+  - pystan
   - numpy
+  - matplotlib
+  - plotly
+  - fbprophet
 
